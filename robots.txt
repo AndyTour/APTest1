@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://andytour.github.io/APTest1/sitemap.xml
